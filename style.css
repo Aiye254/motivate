@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: libre baskeville;
+    font-weight: 400;
+}
+
+.image{
+    border: 5px solid white;
+    height: 200px;
+}
